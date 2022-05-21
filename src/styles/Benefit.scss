@@ -1,0 +1,103 @@
+.section-benefit {
+  /* Auto layout */
+
+  width: 100%;
+  height: 280px;
+  position: relative;
+  order: 3;
+  align-self: stretch;
+  flex-grow: 0;
+  display: flex;
+  justify-content: center;
+
+  .mask {
+    position: absolute;
+    width: 100%;
+    height: 240px;
+    left: 0px;
+    top: 40px;
+
+    /* gray/gray_6 | #EDEDED */
+
+    background: #ededed;
+  }
+
+  .container {
+    width: 1200px;
+    position: relative;
+
+    div:nth-child(1) {
+      position: absolute;
+      height: 88px;
+      left: 50px;
+      top: 80px;
+
+      /* Title/Noto Serif/H2-NotoSerif-B */
+
+      font-family: "Noto Serif KR";
+      font-style: normal;
+      font-weight: 600;
+      font-size: 32px;
+      line-height: 44px;
+      /* or 138% */
+
+      /* navy/navy_1 | #30373F */
+
+      color: #30373f;
+    }
+    button {
+      /* Auto layout */
+
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 0px 16px 0px 24px;
+      gap: 8px;
+
+      position: absolute;
+      width: 198px;
+      height: 48px;
+      left: 50px;
+      top: 192px;
+
+      /* green/green_3 */
+
+      background: #03936e;
+      border-radius: 100px;
+      border-width: 0;
+      span {
+        height: 32px;
+
+        /* Title/Pretendard/H5-Pretendard-R */
+
+        font-family: "Pretendard";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 32px;
+        /* identical to box height, or 160% */
+
+        display: flex;
+        align-items: center;
+
+        /* white */
+
+        color: #ffffff;
+
+        /* Inside auto layout */
+
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+      }
+    }
+    img {
+      position: absolute;
+      width: 494px;
+      height: 350px;
+      right: -59px;
+      top: -47px;
+    }
+  }
+}

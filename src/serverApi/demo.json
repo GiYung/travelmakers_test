@@ -1,0 +1,2485 @@
+{
+  "is_curator": false,
+  "curator": null,
+  "banners": [
+    {
+      "hotel_id": null,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220118/banner_pc.png",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220118/banner_mobile.png",
+      "name": "1주부터 3달 이상, 호텔에서 롱스테이 하세요",
+      "description": "호텔 롱스테이 플랫폼, 호텔에삶",
+      "promotion": null,
+      "link": null,
+      "depth": null,
+      "tab": null,
+      "route": "other",
+      "view": "main",
+      "tags": null
+    },
+    {
+      "hotel_id": 232,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220518/web/DA7QnDCLPH7CjgZU3Ggq8kocepVACOi0WV4cLltb.jpg",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220518/mobile/insmnQM5vZVJmRwvUaYfIJUchrCF1TeqlF7QXlX8.jpg",
+      "name": "청담다움, 영앤리치를 위한 모던 살롱",
+      "description": "알로프트 서울 강남 오픈",
+      "promotion": "오픈 기념 최대 10만원 할인",
+      "link": "https://api.livinginhotel.com/hotel/232",
+      "depth": null,
+      "tab": null,
+      "route": "hotel.view",
+      "view": "main",
+      "tags": [
+        {
+          "title": "NEW",
+          "explanation": null,
+          "order": null
+        }
+      ]
+    },
+    {
+      "hotel_id": 190,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220513/web/iFm2pTDLagDl4fPW5r8RXUi1IA1KIo135tg0EylW.jpg",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220513/mobile/HI8CKQxna2uymQK6rgNQcsr4tJUeaAshc25uakfA.jpg",
+      "name": "몰입의 즐거움, 뉴 플레이 그라운드",
+      "description": "테이크호텔 오픈",
+      "promotion": null,
+      "link": "https://api.livinginhotel.com/hotel/190",
+      "depth": null,
+      "tab": null,
+      "route": "hotel.view",
+      "view": "main",
+      "tags": null
+    },
+    {
+      "hotel_id": null,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220504/web/XnGvuF2RirpsSUSfbQNXF0Emr0xZfRmtD7QuJAqd.jpg",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220504/mobile/S7is9me9svwKF9sonaSxjhqbIqDlaeRydOrAxIfQ.jpg",
+      "name": "도심 속 쾌적한 워라밸의 시작",
+      "description": "Work & Life balance",
+      "promotion": "호텔에삶 에디터 Pick, 워라밸 기획전",
+      "link": "https://promotion.livinginhotel.com/?utm_source=event_page&utm_medium=banner&utm_campaign=220502_work-life-balance&utm_content=220502_work-life-balance&utm_term=main_banner",
+      "depth": null,
+      "tab": null,
+      "route": "other",
+      "view": "main",
+      "tags": null
+    },
+    {
+      "hotel_id": 142,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220502/web/8winwi4lN5gNx8YLkfvtxbEvLLCeu8aB0jdH1Lmh.jpg",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220502/mobile/SU2Z1lNYTm1a7yozpHAB61n6N1Mt96gOtzMFRMrU.jpg",
+      "name": "창 너머 대관람차, 격조 높은 우아한 안식처",
+      "description": "롯데호텔 울산 오픈",
+      "promotion": null,
+      "link": "https://api.livinginhotel.com/hotel/142",
+      "depth": null,
+      "tab": null,
+      "route": "hotel.view",
+      "view": "main",
+      "tags": null
+    },
+    {
+      "hotel_id": 139,
+      "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220502/web/7t12tRYIUetn68qovuAZAHjwe3vuZAAuBvkCdAiW.jpg",
+      "mobile_images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220502/mobile/xWlz1802Aj9ZBKMv2IDFNy2QYGXPIksO7Se6muum.jpg",
+      "name": "스케일이 다른 가성비, 편리미엄 호텔",
+      "description": "롯데시티호텔 마포 오픈",
+      "promotion": null,
+      "link": "https://api.livinginhotel.com/hotel/139",
+      "depth": null,
+      "tab": null,
+      "route": "hotel.view",
+      "view": "main",
+      "tags": null
+    }
+  ],
+  "earlyBird": {
+    "title": "평일 또는 주말에만<br>호텔 롱스테이 해보세요",
+    "explanation": "",
+    "button": "5만원 할인 받기",
+    "url": "https://livinginhotel.lpages.co/?utm_source=inweb&utm_medium=banner&utm_campaign=New_voucherpass_open&utm_content=home_event_banner&utm_term=eventbanner",
+    "image": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/img.png"
+  },
+  "catalogs": [
+    {
+      "city": "서울",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 232,
+          "hotel_price_scheme": "package",
+          "star": "3",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-05-13/DyJzrvcsP2UgSETozHnRshjThjwwHT01kgRGx5Qv.jpg",
+          "name": "알로프트 서울 강남",
+          "description": "청담역 도보 5분 거리",
+          "subway_station": "청담역 도보 5분 거리",
+          "tags": ["#청담역 인근", "#올데이다이닝", "#조식 할인"],
+          "events": ["오픈 특가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": true,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 260000,
+                "discount": 70,
+                "sale_price": 78000,
+                "min_night": 29,
+                "min_night_price": 260000,
+                "min_night_discount": 69,
+                "min_night_sale_price": 80000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "청담 한달살기 200만원대부터",
+              "end_at": "2022-05-27 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 17,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-04-22/qvZMuRhVi8CyS45SUqBDpQq9MN0UuAtCRhL4dlYz.png",
+          "name": "서울드래곤시티 - 이비스 스타일 앰배서더 서울 용산",
+          "description": "용산역 도보 3분 거리",
+          "subway_station": "용산역 도보 3분 거리",
+          "tags": ["#요리가능호텔", "#공유주방", "#객실내전자레인지"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 246000,
+                "discount": 80,
+                "sale_price": 49000,
+                "min_night": 21,
+                "min_night_price": 246000,
+                "min_night_discount": 78,
+                "min_night_sale_price": 54000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "용산 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 51,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-22/pUVsm8xZShPIUI6dWE1tO8O9VNAJyaZMzcmGtist.jpg",
+          "name": "세종 호텔",
+          "description": "명동역 도보 1분 거리",
+          "subway_station": "명동역 도보 1분 거리",
+          "tags": ["#남산타워뷰", "#우드톤인테리어", "#룸업그레이드"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 166000,
+                "discount": 83,
+                "sale_price": 39000,
+                "min_night": 6,
+                "min_night_price": 239000,
+                "min_night_discount": 76,
+                "min_night_sale_price": 57000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "명동 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 92,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/at8e5YMgOjkETCjr4cat6gxZ3EJdY0ZRjFBjvl6w.jpg",
+          "name": "서울드래곤시티 - 노보텔 앰배서더 서울 용산",
+          "description": "용산역 도보 3분 거리",
+          "subway_station": "용산역 도보 3분 거리",
+          "tags": ["#용산역 인근", "#공유주방", "#객실 내 전자레인지"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 327000,
+                "discount": 76,
+                "sale_price": 78000,
+                "min_night": 21,
+                "min_night_price": 327000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 82000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "용산 한달살기 200만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 23,
+          "hotel_price_scheme": "package_day",
+          "star": "3",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/Mm019i0ixVuCGuiCmgKIiftP5Z0OeBeyuEQHpQU0.jpg",
+          "name": "홀리데이인 익스프레스 서울홍대",
+          "description": "홍대입구역 1분 거리",
+          "subway_station": "홍대입구역 1분 거리",
+          "tags": ["#연트럴파크", "#전용라운지", "#가성비한달살기"],
+          "events": ["회원 할인가", "선착순혜택"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 253000,
+                "discount": 78,
+                "sale_price": 55000,
+                "min_night": 20,
+                "min_night_price": 253000,
+                "min_night_discount": 77,
+                "min_night_sale_price": 56000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "홍대 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 106,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "27%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-11-17/zKlpJSaFNjdlYbcBxrD5t72QjZ1O6yGsfBBcPAZV.jpg",
+          "name": "머큐어 앰배서더 서울 홍대",
+          "description": "홍대입구역 도보 2분 거리",
+          "subway_station": "홍대입구역 도보 2분 거리",
+          "tags": ["#홍대입구역 인근", "#크롬캐스트", "#룸 업그레이드"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 302000,
+                "discount": 78,
+                "sale_price": 66000,
+                "min_night": 6,
+                "min_night_price": 302000,
+                "min_night_discount": 67,
+                "min_night_sale_price": 99000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "홍대 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 115,
+          "hotel_price_scheme": "package_day",
+          "star": "3",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/VLdRO33TanI1hioNPMByer2Vhw9eo88R1sIHSz4E.jpg",
+          "name": "라마다 호텔 & 스위트 서울 남대문",
+          "description": "시청역 도보 5분 거리",
+          "subway_station": "시청역 도보 5분 거리",
+          "tags": ["#시청역 근처", "#스카이라운지", "#조식 맛집"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 238000,
+                "discount": 71,
+                "sale_price": 67500,
+                "min_night": 13,
+                "min_night_price": 238000,
+                "min_night_discount": 66,
+                "min_night_sale_price": 80000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "서울 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 7,
+          "hotel_price_scheme": "package_day",
+          "star": "3",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2020-11-11/2qWZG2ojINjeDb5oLt4ALJ8fkxzhUIHEgjwdUCcs.jpeg",
+          "name": "이비스 스타일 앰배서더 서울 명동",
+          "description": "명동역 도보 3분 거리",
+          "subway_station": "명동역 도보 3분 거리",
+          "tags": ["#남산타워뷰", "#루프탑", "#최저가한달살기"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 214000,
+                "discount": 85,
+                "sale_price": 31000,
+                "min_night": 13,
+                "min_night_price": 214000,
+                "min_night_discount": 78,
+                "min_night_sale_price": 45000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "명동 한달살기 100만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 21,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "35%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-03-28/tceAEI6Bi5R7GSXByotsnUbcaTBB4lOeOh62dnCl.jpg",
+          "name": "오라카이 청계산 호텔",
+          "description": "청계산입구역 1분 거리",
+          "subway_station": "청계산입구역 1분 거리",
+          "tags": ["#청계산인근", "#사우나", "#자연속힐링"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 289000,
+                "discount": 72,
+                "sale_price": 79000,
+                "min_night": 20,
+                "min_night_price": 289000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 85000
+              }
+            ]
+          },
+          "timesale": [
+            {
+              "type": "일 H : i : s",
+              "format": "DD일 HH:mm:ss",
+              "content": null,
+              "remaining": "양재 한달살기 200만원대부터",
+              "end_at": "2022-05-19 23:59:00"
+            }
+          ]
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 117,
+          "hotel_price_scheme": "package_day",
+          "star": "3",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/IYPjx62t3sMJdmfGmaJqxmM4kP7O0nvdKS81ETi9.jpg",
+          "name": "호텔 28 명동",
+          "description": "을지로입구역 도보 3분 거리",
+          "subway_station": "을지로입구역 도보 3분 거리",
+          "tags": ["#을지로입구역 인근", "#루프탑", "#명동재텔근무"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 195000,
+                "discount": 81,
+                "sale_price": 37000,
+                "min_night": 13,
+                "min_night_price": 195000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 49000
+              }
+            ]
+          },
+          "timesale": []
+        }
+      ]
+    },
+    {
+      "city": "제주",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 131,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/Ht1cnCzltLgpSHG5LGgchWSAkO5eDkiqF3Pg94J5.jpg",
+          "name": "서머셋 제주신화월드",
+          "description": "제주국제공항 차량 30분 거리",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "tags": ["#46평 객실", "#실내 수영장", "#풀옵션주방시설"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 1067000,
+                "discount": 75,
+                "sale_price": 303000,
+                "min_night": 7,
+                "min_night_price": 1067000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 326000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 141,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "100%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-11/n1daBZqvPVApx2RvxaCSEOWhCruxQaTG4aybuHhP.jpg",
+          "name": "롯데시티호텔 제주",
+          "description": "제주국제공항 차량 6분 거리",
+          "subway_station": "제주국제공항 차량 6분 거리",
+          "tags": ["#제주공항 인근", "#인피티니 온수풀", "#룸 업그레이드"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 454000,
+                "discount": 73,
+                "sale_price": 121000,
+                "min_night": 14,
+                "min_night_price": 454000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 132000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 128,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/2b7qhD0p0HlStkN5SCVfkO1I17pFxyGScgzliuAG.jpg",
+          "name": "랜딩관 제주신화월드 호텔앤리조트",
+          "description": "제주국제공항 차량 30분 거리",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "tags": ["#스마트 객실", "#랜딩다이닝", "#신화테마파크"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 513000,
+                "discount": 76,
+                "sale_price": 121000,
+                "min_night": 7,
+                "min_night_price": 513000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 137000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 129,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/LyqZAKJLi8KoOzwC0YLMwsuw5Wxpe1jWFmQFogx9.jpg",
+          "name": "신화관 제주신화월드 호텔앤리조트",
+          "description": "제주국제공항 차량 30분 거리",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "tags": ["#사계절온수풀", "#신화워터파크", "#주차무료이용"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 531000,
+                "discount": 67,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 531000,
+                "min_night_discount": 64,
+                "min_night_sale_price": 204000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 130,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/twFKQOQNyZBa8yhxONA48vYp23mtCDqC9SFKBPWi.jpg",
+          "name": "메리어트관 제주신화월드 호텔앤리조트",
+          "description": "제주국제공항 차량 30분 거리",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "tags": ["#데일리룸서비스", "#인피니티 풀", "#런드리 크레딧"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 723000,
+                "discount": 75,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 723000,
+                "min_night_discount": 72,
+                "min_night_sale_price": 204000
+              }
+            ]
+          },
+          "timesale": []
+        }
+      ]
+    },
+    {
+      "city": "경상",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 125,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "50%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/uT4jRdC6FPM9TovZaMWMOGiadiptBik80FC4lFdD.jpg",
+          "name": "아바니 센트럴 부산",
+          "description": "국제금융센터 부산은행역 도보 2분 거리",
+          "subway_station": "국제금융센터 부산은행역 도보 2분 거리",
+          "tags": ["#전포카페거리", "#루프탑 라운지", "#웰컴 드링크"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 251000,
+                "discount": 70,
+                "sale_price": 73000,
+                "min_night": 6,
+                "min_night_price": 251000,
+                "min_night_discount": 63,
+                "min_night_sale_price": 91000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 140,
+          "hotel_price_scheme": "package_day",
+          "star": "3",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-18/YdSRnDEiwZVte87hKBRwGjOWGSyFejssJAB1L76a.jpg",
+          "name": "롯데시티호텔 울산",
+          "description": "태화강역 차량 7분 거리",
+          "subway_station": "태화강역 차량 7분 거리",
+          "tags": ["#울산공항 인근", "#모던 인테리어", "#F&B 이용권 제공"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 254000,
+                "discount": 69,
+                "sale_price": 77000,
+                "min_night": 14,
+                "min_night_price": 254000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 80300
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 142,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-15/GbyCENgjTKLc3OPLrlnHnjQA3QYvn6rMEapkVo8O.jpg",
+          "name": "롯데 호텔 울산",
+          "description": "태화강역 차량 5분 거리",
+          "subway_station": "태화강역 차량 5분 거리",
+          "tags": ["#울산공항 인근", "#골프연습장", "#조식 이용권 10매"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 392000,
+                "discount": 59,
+                "sale_price": 157300,
+                "min_night": 14,
+                "min_night_price": 392000,
+                "min_night_discount": 59,
+                "min_night_sale_price": 157300
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel-mini",
+          "hotel_id": 105,
+          "hotel_price_scheme": "package_day",
+          "star": null,
+          "first_image_position_y": "65%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/1vfKymrNKGIRPuTkl1rbfe09zELUCiBUt7jJySvW.jpg",
+          "name": "항사리 91",
+          "description": "괴동역 차량 20분 거리",
+          "subway_station": "괴동역 차량 20분 거리",
+          "tags": ["#마운틴뷰", "#개별 주방", "#온수 수영장"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 313000,
+                "discount": 51,
+                "sale_price": 161000,
+                "min_night": 6,
+                "min_night_price": 313000,
+                "min_night_discount": 47,
+                "min_night_sale_price": 172500
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 136,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-21/IsYJan6bZOI1VkfQDe3jR74Xo8smSVXPbP20xFyY.jpg",
+          "name": "농심 호텔",
+          "description": "온천장역 도보 5분 거리",
+          "subway_station": "온천장역 도보 5분 거리",
+          "tags": ["#데일리룸서비스", "#대규모 온천탕", "#조식 할인"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 105000,
+                "discount": 68,
+                "sale_price": 95000,
+                "min_night": 6,
+                "min_night_price": 105000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 95000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 27,
+          "hotel_price_scheme": "package_day",
+          "star": "5",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-03-30/XZUBUSlenbZ8HflGqPsAzrZARnVz4i2dObLfbEfJ.jpg",
+          "name": "파크 하얏트 부산",
+          "description": "동백역 차량 4분 거리",
+          "subway_station": "동백역 차량 4분 거리",
+          "tags": ["#광안대교뷰", "#수영장", "#5성급한달살기"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": false,
+            "is_coupon": false,
+            "price": []
+          },
+          "timesale": []
+        }
+      ]
+    },
+    {
+      "city": "수도권",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 190,
+          "hotel_price_scheme": "package_day",
+          "star": "4",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-05-03/xm07hgxZ3VNGzS6SHQ8cxXVVNVE0OMLrFpphLNuS.jpg",
+          "name": "테이크호텔",
+          "description": "광명역 도보 6분 거리",
+          "subway_station": "광명역 도보 6분 거리",
+          "tags": ["#KTX광명역 인근", "#인피니티 풀", "#주 1회 조식 제공"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 171000,
+                "discount": 72,
+                "sale_price": 47000,
+                "min_night": 6,
+                "min_night_price": 171000,
+                "min_night_discount": 61,
+                "min_night_sale_price": 71000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 134,
+          "hotel_price_scheme": "package_day",
+          "star": "2",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-09/1U8Isod5FEDrjFrtivRJEypaMdqWknu4qkVsWYnz.jpg",
+          "name": "킨텍스 바이 케이트리",
+          "description": "대화역 차량 5분 거리",
+          "subway_station": "대화역 차량 5분 거리",
+          "tags": ["#일산호수공원", "#객실 내 주방", "#풀 테라스"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 218000,
+                "discount": 77,
+                "sale_price": 50000,
+                "min_night": 6,
+                "min_night_price": 218000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 69000
+              }
+            ]
+          },
+          "timesale": []
+        },
+        {
+          "type": "hotel-mini",
+          "hotel_id": 63,
+          "hotel_price_scheme": "package_day",
+          "star": null,
+          "first_image_position_y": "10%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-05-26/kO0Kda5iYUTzLM71loSsryZpxS2KNV1p88GzSKVa.jpg",
+          "name": "더위크앤 리조트",
+          "description": "인천공항 차량 13분 거리",
+          "subway_station": "인천공항 차량 13분 거리",
+          "tags": ["#을왕리해수욕장", "#실내야광골프", "#리조트"],
+          "events": ["회원 할인가"],
+          "price": {
+            "is_price": false,
+            "is_coupon": false,
+            "price": []
+          },
+          "timesale": []
+        }
+      ]
+    }
+  ],
+  "feature_hotels": [
+    {
+      "name": "30만원대부터 시작하는 호텔 살기",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 51,
+          "hotel_price_scheme": "package_day",
+          "name": "세종 호텔",
+          "eng_name": "Sejong Hotel",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-22/pUVsm8xZShPIUI6dWE1tO8O9VNAJyaZMzcmGtist.jpg",
+          "address": "서울 중구 퇴계로 145 세종호텔",
+          "subway_station": "명동역 도보 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 166000,
+                "discount": 83,
+                "sale_price": 39000,
+                "min_night": 6,
+                "min_night_price": 239000,
+                "min_night_discount": 76,
+                "min_night_sale_price": 57000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 115,
+          "hotel_price_scheme": "package_day",
+          "name": "라마다 호텔 & 스위트 서울 남대문",
+          "eng_name": "Ramada Hotel and Suites Seoul Namdaemun",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/VLdRO33TanI1hioNPMByer2Vhw9eo88R1sIHSz4E.jpg",
+          "address": "서울 중구 칠패로 27",
+          "subway_station": "시청역 도보 5분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 238000,
+                "discount": 71,
+                "sale_price": 67500,
+                "min_night": 13,
+                "min_night_price": 238000,
+                "min_night_discount": 66,
+                "min_night_sale_price": 80000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 134,
+          "hotel_price_scheme": "package_day",
+          "name": "킨텍스 바이 케이트리",
+          "eng_name": "Kintex by K-tree",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-09/1U8Isod5FEDrjFrtivRJEypaMdqWknu4qkVsWYnz.jpg",
+          "address": "경기 고양시 일산서구 킨텍스로 255-3",
+          "subway_station": "대화역 차량 5분 거리",
+          "rating": "2",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 218000,
+                "discount": 77,
+                "sale_price": 50000,
+                "min_night": 6,
+                "min_night_price": 218000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 69000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 190,
+          "hotel_price_scheme": "package_day",
+          "name": "테이크호텔",
+          "eng_name": "Take Hotel",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-05-03/xm07hgxZ3VNGzS6SHQ8cxXVVNVE0OMLrFpphLNuS.jpg",
+          "address": "경기 광명시 신기로 22",
+          "subway_station": "광명역 도보 6분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 171000,
+                "discount": 72,
+                "sale_price": 47000,
+                "min_night": 6,
+                "min_night_price": 171000,
+                "min_night_discount": 61,
+                "min_night_sale_price": 71000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 125,
+          "hotel_price_scheme": "package_day",
+          "name": "아바니 센트럴 부산",
+          "eng_name": "Avani Central Busan",
+          "first_image_position_y": "50%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/uT4jRdC6FPM9TovZaMWMOGiadiptBik80FC4lFdD.jpg",
+          "address": "부산 남구 전포대로 133 국제금융센터3번출구",
+          "subway_station": "국제금융센터 부산은행역 도보 2분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 251000,
+                "discount": 70,
+                "sale_price": 73000,
+                "min_night": 6,
+                "min_night_price": 251000,
+                "min_night_discount": 63,
+                "min_night_sale_price": 91000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 136,
+          "hotel_price_scheme": "package_day",
+          "name": "농심 호텔",
+          "eng_name": "Hotel Nongshim",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-21/IsYJan6bZOI1VkfQDe3jR74Xo8smSVXPbP20xFyY.jpg",
+          "address": "부산 동래구 금강공원로20번길 23 호텔농심",
+          "subway_station": "온천장역 도보 5분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 105000,
+                "discount": 68,
+                "sale_price": 95000,
+                "min_night": 6,
+                "min_night_price": 105000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 95000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 7,
+          "hotel_price_scheme": "package_day",
+          "name": "이비스 스타일 앰배서더 서울 명동",
+          "eng_name": "ibis Styles Ambassador Seoul Myeongdong",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2020-11-11/2qWZG2ojINjeDb5oLt4ALJ8fkxzhUIHEgjwdUCcs.jpeg",
+          "address": "서울 중구 삼일대로 302",
+          "subway_station": "명동역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 214000,
+                "discount": 85,
+                "sale_price": 31000,
+                "min_night": 13,
+                "min_night_price": 214000,
+                "min_night_discount": 78,
+                "min_night_sale_price": 45000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 106,
+          "hotel_price_scheme": "package_day",
+          "name": "머큐어 앰배서더 서울 홍대",
+          "eng_name": "Mercure Ambassador Seoul Hongdae",
+          "first_image_position_y": "27%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-11-17/zKlpJSaFNjdlYbcBxrD5t72QjZ1O6yGsfBBcPAZV.jpg",
+          "address": "서울 마포구 양화로 144",
+          "subway_station": "홍대입구역 도보 2분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 302000,
+                "discount": 78,
+                "sale_price": 66000,
+                "min_night": 6,
+                "min_night_price": 302000,
+                "min_night_discount": 67,
+                "min_night_sale_price": 99000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 117,
+          "hotel_price_scheme": "package_day",
+          "name": "호텔 28 명동",
+          "eng_name": "Hotel 28 Myeongdong",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/IYPjx62t3sMJdmfGmaJqxmM4kP7O0nvdKS81ETi9.jpg",
+          "address": "서울 중구 명동7길 13",
+          "subway_station": "을지로입구역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 195000,
+                "discount": 81,
+                "sale_price": 37000,
+                "min_night": 13,
+                "min_night_price": 195000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 49000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 3,
+          "hotel_price_scheme": "package_day",
+          "name": "호텔 미드시티 명동",
+          "eng_name": "Hotel Midcity Myeongdong",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2020-11-18/kbu0SrlBcZkkoqeJe809BHbE1tQ7ydAbZzCwJizx.jpeg",
+          "address": "서울 중구 다동길 30",
+          "subway_station": "종각역/을지로입구역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 196000,
+                "discount": 81,
+                "sale_price": 35500,
+                "min_night": 13,
+                "min_night_price": 196000,
+                "min_night_discount": 75,
+                "min_night_sale_price": 49000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 154,
+          "hotel_price_scheme": "package_day",
+          "name": "스탠포드 호텔 명동",
+          "eng_name": "Stanford Hotel Myeongdong",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-25/ZEvVFSzo4B9N5uJYCqFDk8O9uRZodfNDsLlkR6GJ.jpg",
+          "address": "서울 중구 남대문로 84",
+          "subway_station": "을지로입구역 도보 2분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 193000,
+                "discount": 77,
+                "sale_price": 46000,
+                "min_night": 13,
+                "min_night_price": 193000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 65000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 128,
+          "hotel_price_scheme": "package_day",
+          "name": "랜딩관 제주신화월드 호텔앤리조트",
+          "eng_name": "Landing Jeju Shinhwa World Hotels&Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/2b7qhD0p0HlStkN5SCVfkO1I17pFxyGScgzliuAG.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 513000,
+                "discount": 76,
+                "sale_price": 121000,
+                "min_night": 7,
+                "min_night_price": 513000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 137000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel-mini",
+          "hotel_id": 105,
+          "hotel_price_scheme": "package_day",
+          "name": "항사리 91",
+          "eng_name": "Hangsali 91",
+          "first_image_position_y": "65%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/1vfKymrNKGIRPuTkl1rbfe09zELUCiBUt7jJySvW.jpg",
+          "address": "경상북도 포항시 남구 오천읍 항사리 91",
+          "subway_station": "괴동역 차량 20분 거리",
+          "rating": null,
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 313000,
+                "discount": 51,
+                "sale_price": 161000,
+                "min_night": 6,
+                "min_night_price": 313000,
+                "min_night_discount": 47,
+                "min_night_sale_price": 172500
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 23,
+          "hotel_price_scheme": "package_day",
+          "name": "홀리데이인 익스프레스 서울홍대",
+          "eng_name": "Holiday Inn Express Seoul Hongdae",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/Mm019i0ixVuCGuiCmgKIiftP5Z0OeBeyuEQHpQU0.jpg",
+          "address": "서울 마포구 양화로 188 애경타워 7층",
+          "subway_station": "홍대입구역 1분 거리",
+          "rating": "3",
+          "events": ["회원 할인가", "선착순혜택"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 253000,
+                "discount": 78,
+                "sale_price": 55000,
+                "min_night": 20,
+                "min_night_price": 253000,
+                "min_night_discount": 77,
+                "min_night_sale_price": 56000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 140,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 울산",
+          "eng_name": "Lotte City Hotel Ulsan",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-18/YdSRnDEiwZVte87hKBRwGjOWGSyFejssJAB1L76a.jpg",
+          "address": "울산 남구 삼산로 204",
+          "subway_station": "태화강역 차량 7분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 254000,
+                "discount": 69,
+                "sale_price": 77000,
+                "min_night": 14,
+                "min_night_price": 254000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 80300
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 17,
+          "hotel_price_scheme": "package_day",
+          "name": "서울드래곤시티 - 이비스 스타일 앰배서더 서울 용산",
+          "eng_name": "SEOUL DRAGON CITY - ibis Styles Ambassador Seoul Yongsan",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-04-22/qvZMuRhVi8CyS45SUqBDpQq9MN0UuAtCRhL4dlYz.png",
+          "address": "서울 용산구 청파로20길 95",
+          "subway_station": "용산역 도보 3분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 246000,
+                "discount": 80,
+                "sale_price": 49000,
+                "min_night": 21,
+                "min_night_price": 246000,
+                "min_night_discount": 78,
+                "min_night_sale_price": 54000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 90,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 구로",
+          "eng_name": "LOTTE City Hotel Guro",
+          "first_image_position_y": "15%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-03-23/pxstm2HW8wj8QWMKXUMslQnYN3hyr3miAfDsN9wQ.jpg",
+          "address": "서울 구로구 디지털로 300 지밸리비즈플라자",
+          "subway_station": "구로디지털단지역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 290000,
+                "discount": 73,
+                "sale_price": 77000,
+                "min_night": 14,
+                "min_night_price": 290000,
+                "min_night_discount": 71,
+                "min_night_sale_price": 82500
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 138,
+          "hotel_price_scheme": "package_day",
+          "name": "L7 명동 바이 롯데",
+          "eng_name": "L7 Myeongdong by LOTTE",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-22/czrDKkpgOgHHegdwHaiPfl7kik3MSMlX6GfMQgbZ.jpg",
+          "address": "서울 중구 퇴계로 137",
+          "subway_station": "명동역 도보 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 278000,
+                "discount": 70,
+                "sale_price": 82500,
+                "min_night": 14,
+                "min_night_price": 278000,
+                "min_night_discount": 66,
+                "min_night_sale_price": 93500
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 94,
+          "hotel_price_scheme": "package_day",
+          "name": "디어스 명동",
+          "eng_name": "Dears Myeongdong",
+          "first_image_position_y": "70%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/wZQBgJiZIeMYGZkfFrep0Fu5CMXwUm45WSqHbjG8.jpg",
+          "address": "서울특별시 중구 퇴계로 176",
+          "subway_station": "충무로역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 183000,
+                "discount": 77,
+                "sale_price": 42000,
+                "min_night": 30,
+                "min_night_price": 183000,
+                "min_night_discount": 75,
+                "min_night_sale_price": 45800
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 139,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 마포",
+          "eng_name": "LOTTE City Hotel Mapo",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-11/0jdh1pW2WghHShqLt6ExFactWGLFrnZABeV9rGOS.jpg",
+          "address": "서울 마포구 마포대로 109",
+          "subway_station": "공덕역 도보 1분 거리",
+          "rating": "3",
+          "events": ["오픈 특가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 271000,
+                "discount": 65,
+                "sale_price": 93500,
+                "min_night": 14,
+                "min_night_price": 271000,
+                "min_night_discount": 63,
+                "min_night_sale_price": 99000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 88,
+          "hotel_price_scheme": "package_day",
+          "name": "L7 홍대 바이 롯데",
+          "eng_name": "L7 Hongdae by LOTTE",
+          "first_image_position_y": "15%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-22/5kpkY3m6ufP1XLamHtbhZtJpf42fkWZJhXb7y3tu.jpg",
+          "address": "서울 마포구 양화로 141",
+          "subway_station": "홍대입구역 도보 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 227000,
+                "discount": 58,
+                "sale_price": 93500,
+                "min_night": 14,
+                "min_night_price": 227000,
+                "min_night_discount": 56,
+                "min_night_sale_price": 99000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 24,
+          "hotel_price_scheme": "package_day",
+          "name": "이비스 스타일 앰배서더 서울 강남",
+          "eng_name": "Ibis Styles Ambassador Seoul Gangnam",
+          "first_image_position_y": "10%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/8nzdbZKI3oF1dBbxWabaHgnpowv0Vx3iOpfjEhH0.jpg",
+          "address": "서울 강남구 삼성로 431",
+          "subway_station": "삼성역/선릉역 도보 10분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 238000,
+                "discount": 73,
+                "sale_price": 64000,
+                "min_night": 20,
+                "min_night_price": 238000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 70000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 129,
+          "hotel_price_scheme": "package_day",
+          "name": "신화관 제주신화월드 호텔앤리조트",
+          "eng_name": "Shinhwa Jeju Shinhwa World Hotels & Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/LyqZAKJLi8KoOzwC0YLMwsuw5Wxpe1jWFmQFogx9.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 531000,
+                "discount": 67,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 531000,
+                "min_night_discount": 64,
+                "min_night_sale_price": 204000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 130,
+          "hotel_price_scheme": "package_day",
+          "name": "메리어트관 제주신화월드 호텔앤리조트",
+          "eng_name": "Marriott Jeju Shinhwa World Hotels & Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/twFKQOQNyZBa8yhxONA48vYp23mtCDqC9SFKBPWi.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 723000,
+                "discount": 75,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 723000,
+                "min_night_discount": 72,
+                "min_night_sale_price": 204000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 89,
+          "hotel_price_scheme": "package_day",
+          "name": "L7 강남 바이 롯데",
+          "eng_name": "L7 Gangnam by LOTTE",
+          "first_image_position_y": "5%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-22/GqmRTwCGq2uSH44THe00v3bYqRbvlL6TUgPlCOlN.jpg",
+          "address": "서울 강남구 테헤란로 415",
+          "subway_station": "선릉역 도보 2분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 384000,
+                "discount": 72,
+                "sale_price": 104500,
+                "min_night": 14,
+                "min_night_price": 384000,
+                "min_night_discount": 71,
+                "min_night_sale_price": 110000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 123,
+          "hotel_price_scheme": "package_day",
+          "name": "메이플레이스 서울 동대문",
+          "eng_name": "Mayplace Seoul Dongdaemun",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/pyhGoE7BY6QwF3QOVC3qYE3wl6tDpJxx5ze9hNMR.jpg",
+          "address": "서울 종로구 율곡로 179",
+          "subway_station": "혜화역 도보 10분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 148000,
+                "discount": 66,
+                "sale_price": 50000,
+                "min_night": 30,
+                "min_night_price": 148000,
+                "min_night_discount": 64,
+                "min_night_sale_price": 52000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 21,
+          "hotel_price_scheme": "package_day",
+          "name": "오라카이 청계산 호텔",
+          "eng_name": "Orakai Cheonggyesan Hotel",
+          "first_image_position_y": "35%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-03-28/tceAEI6Bi5R7GSXByotsnUbcaTBB4lOeOh62dnCl.jpg",
+          "address": "서울 서초구 청계산로9길 1-7",
+          "subway_station": "청계산입구역 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 289000,
+                "discount": 72,
+                "sale_price": 79000,
+                "min_night": 20,
+                "min_night_price": 289000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 85000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 92,
+          "hotel_price_scheme": "package_day",
+          "name": "서울드래곤시티 - 노보텔 앰배서더 서울 용산",
+          "eng_name": "Novotel Ambassador Seoul Yongsan",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/at8e5YMgOjkETCjr4cat6gxZ3EJdY0ZRjFBjvl6w.jpg",
+          "address": "서울 용산구 청파로20길 95",
+          "subway_station": "용산역 도보 3분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 327000,
+                "discount": 76,
+                "sale_price": 78000,
+                "min_night": 21,
+                "min_night_price": 327000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 82000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 141,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 제주",
+          "eng_name": "LOTTE City Hotel Jeju",
+          "first_image_position_y": "100%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-11/n1daBZqvPVApx2RvxaCSEOWhCruxQaTG4aybuHhP.jpg",
+          "address": "제주 제주시 도령로 83",
+          "subway_station": "제주국제공항 차량 6분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 454000,
+                "discount": 73,
+                "sale_price": 121000,
+                "min_night": 14,
+                "min_night_price": 454000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 132000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 142,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데 호텔 울산",
+          "eng_name": "Lotte Hotel Ulsan",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-15/GbyCENgjTKLc3OPLrlnHnjQA3QYvn6rMEapkVo8O.jpg",
+          "address": "울산 남구 삼산로 282 롯데호텔",
+          "subway_station": "태화강역 차량 5분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 392000,
+                "discount": 59,
+                "sale_price": 157300,
+                "min_night": 14,
+                "min_night_price": 392000,
+                "min_night_discount": 59,
+                "min_night_sale_price": 157300
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 131,
+          "hotel_price_scheme": "package_day",
+          "name": "서머셋 제주신화월드",
+          "eng_name": "Somerset Jeju Shinhwa World",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/Ht1cnCzltLgpSHG5LGgchWSAkO5eDkiqF3Pg94J5.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 89",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 1067000,
+                "discount": 75,
+                "sale_price": 303000,
+                "min_night": 7,
+                "min_night_price": 1067000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 326000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 232,
+          "hotel_price_scheme": "package",
+          "name": "알로프트 서울 강남",
+          "eng_name": "Aloft Seoul Gangnam",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-05-13/DyJzrvcsP2UgSETozHnRshjThjwwHT01kgRGx5Qv.jpg",
+          "address": "서울 강남구 영동대로 736",
+          "subway_station": "청담역 도보 5분 거리",
+          "rating": "3",
+          "events": ["오픈 특가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": true,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 260000,
+                "discount": 70,
+                "sale_price": 78000,
+                "min_night": 29,
+                "min_night_price": 260000,
+                "min_night_discount": 69,
+                "min_night_sale_price": 80000
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "도심 여행자를 위한 포근한 휴식처",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 154,
+          "hotel_price_scheme": "package_day",
+          "name": "스탠포드 호텔 명동",
+          "eng_name": "Stanford Hotel Myeongdong",
+          "first_image_position_y": "1",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-25/ZEvVFSzo4B9N5uJYCqFDk8O9uRZodfNDsLlkR6GJ.jpg",
+          "address": "서울 중구 남대문로 84",
+          "subway_station": "을지로입구역 도보 2분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 193000,
+                "discount": 77,
+                "sale_price": 46000,
+                "min_night": 13,
+                "min_night_price": 193000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 65000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 117,
+          "hotel_price_scheme": "package_day",
+          "name": "호텔 28 명동",
+          "eng_name": "Hotel 28 Myeongdong",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/IYPjx62t3sMJdmfGmaJqxmM4kP7O0nvdKS81ETi9.jpg",
+          "address": "서울 중구 명동7길 13",
+          "subway_station": "을지로입구역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 195000,
+                "discount": 81,
+                "sale_price": 37000,
+                "min_night": 13,
+                "min_night_price": 195000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 49000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 21,
+          "hotel_price_scheme": "package_day",
+          "name": "오라카이 청계산 호텔",
+          "eng_name": "Orakai Cheonggyesan Hotel",
+          "first_image_position_y": "35%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-03-28/tceAEI6Bi5R7GSXByotsnUbcaTBB4lOeOh62dnCl.jpg",
+          "address": "서울 서초구 청계산로9길 1-7",
+          "subway_station": "청계산입구역 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 289000,
+                "discount": 72,
+                "sale_price": 79000,
+                "min_night": 20,
+                "min_night_price": 289000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 85000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 115,
+          "hotel_price_scheme": "package_day",
+          "name": "라마다 호텔 & 스위트 서울 남대문",
+          "eng_name": "Ramada Hotel and Suites Seoul Namdaemun",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/VLdRO33TanI1hioNPMByer2Vhw9eo88R1sIHSz4E.jpg",
+          "address": "서울 중구 칠패로 27",
+          "subway_station": "시청역 도보 5분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 238000,
+                "discount": 71,
+                "sale_price": 67500,
+                "min_night": 13,
+                "min_night_price": 238000,
+                "min_night_discount": 66,
+                "min_night_sale_price": 80000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 24,
+          "hotel_price_scheme": "package_day",
+          "name": "이비스 스타일 앰배서더 서울 강남",
+          "eng_name": "Ibis Styles Ambassador Seoul Gangnam",
+          "first_image_position_y": "10%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/8nzdbZKI3oF1dBbxWabaHgnpowv0Vx3iOpfjEhH0.jpg",
+          "address": "서울 강남구 삼성로 431",
+          "subway_station": "삼성역/선릉역 도보 10분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 238000,
+                "discount": 73,
+                "sale_price": 64000,
+                "min_night": 20,
+                "min_night_price": 238000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 70000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 94,
+          "hotel_price_scheme": "package_day",
+          "name": "디어스 명동",
+          "eng_name": "Dears Myeongdong",
+          "first_image_position_y": "70%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/wZQBgJiZIeMYGZkfFrep0Fu5CMXwUm45WSqHbjG8.jpg",
+          "address": "서울특별시 중구 퇴계로 176",
+          "subway_station": "충무로역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 183000,
+                "discount": 77,
+                "sale_price": 42000,
+                "min_night": 30,
+                "min_night_price": 183000,
+                "min_night_discount": 75,
+                "min_night_sale_price": 45800
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 3,
+          "hotel_price_scheme": "package_day",
+          "name": "호텔 미드시티 명동",
+          "eng_name": "Hotel Midcity Myeongdong",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2020-11-18/kbu0SrlBcZkkoqeJe809BHbE1tQ7ydAbZzCwJizx.jpeg",
+          "address": "서울 중구 다동길 30",
+          "subway_station": "종각역/을지로입구역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 196000,
+                "discount": 81,
+                "sale_price": 35500,
+                "min_night": 13,
+                "min_night_price": 196000,
+                "min_night_discount": 75,
+                "min_night_sale_price": 49000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 134,
+          "hotel_price_scheme": "package_day",
+          "name": "킨텍스 바이 케이트리",
+          "eng_name": "Kintex by K-tree",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-09/1U8Isod5FEDrjFrtivRJEypaMdqWknu4qkVsWYnz.jpg",
+          "address": "경기 고양시 일산서구 킨텍스로 255-3",
+          "subway_station": "대화역 차량 5분 거리",
+          "rating": "2",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 218000,
+                "discount": 77,
+                "sale_price": 50000,
+                "min_night": 6,
+                "min_night_price": 218000,
+                "min_night_discount": 68,
+                "min_night_sale_price": 69000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 90,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 구로",
+          "eng_name": "LOTTE City Hotel Guro",
+          "first_image_position_y": "15%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-03-23/pxstm2HW8wj8QWMKXUMslQnYN3hyr3miAfDsN9wQ.jpg",
+          "address": "서울 구로구 디지털로 300 지밸리비즈플라자",
+          "subway_station": "구로디지털단지역 도보 3분 거리",
+          "rating": "3",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 290000,
+                "discount": 73,
+                "sale_price": 77000,
+                "min_night": 14,
+                "min_night_price": 290000,
+                "min_night_discount": 71,
+                "min_night_sale_price": 82500
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 17,
+          "hotel_price_scheme": "package_day",
+          "name": "서울드래곤시티 - 이비스 스타일 앰배서더 서울 용산",
+          "eng_name": "SEOUL DRAGON CITY - ibis Styles Ambassador Seoul Yongsan",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2021-04-22/qvZMuRhVi8CyS45SUqBDpQq9MN0UuAtCRhL4dlYz.png",
+          "address": "서울 용산구 청파로20길 95",
+          "subway_station": "용산역 도보 3분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 246000,
+                "discount": 80,
+                "sale_price": 49000,
+                "min_night": 21,
+                "min_night_price": 246000,
+                "min_night_discount": 78,
+                "min_night_sale_price": 54000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 51,
+          "hotel_price_scheme": "package_day",
+          "name": "세종 호텔",
+          "eng_name": "Sejong Hotel",
+          "first_image_position_y": "20%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-22/pUVsm8xZShPIUI6dWE1tO8O9VNAJyaZMzcmGtist.jpg",
+          "address": "서울 중구 퇴계로 145 세종호텔",
+          "subway_station": "명동역 도보 1분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 87,
+                "price": 166000,
+                "discount": 83,
+                "sale_price": 39000,
+                "min_night": 6,
+                "min_night_price": 239000,
+                "min_night_discount": 76,
+                "min_night_sale_price": 57000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 23,
+          "hotel_price_scheme": "package_day",
+          "name": "홀리데이인 익스프레스 서울홍대",
+          "eng_name": "Holiday Inn Express Seoul Hongdae",
+          "first_image_position_y": "25%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/Mm019i0ixVuCGuiCmgKIiftP5Z0OeBeyuEQHpQU0.jpg",
+          "address": "서울 마포구 양화로 188 애경타워 7층",
+          "subway_station": "홍대입구역 1분 거리",
+          "rating": "3",
+          "events": ["회원 할인가", "선착순혜택"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 29,
+                "price": 253000,
+                "discount": 78,
+                "sale_price": 55000,
+                "min_night": 20,
+                "min_night_price": 253000,
+                "min_night_discount": 77,
+                "min_night_sale_price": 56000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 92,
+          "hotel_price_scheme": "package_day",
+          "name": "서울드래곤시티 - 노보텔 앰배서더 서울 용산",
+          "eng_name": "Novotel Ambassador Seoul Yongsan",
+          "first_image_position_y": "40%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/at8e5YMgOjkETCjr4cat6gxZ3EJdY0ZRjFBjvl6w.jpg",
+          "address": "서울 용산구 청파로20길 95",
+          "subway_station": "용산역 도보 3분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 327000,
+                "discount": 76,
+                "sale_price": 78000,
+                "min_night": 21,
+                "min_night_price": 327000,
+                "min_night_discount": 74,
+                "min_night_sale_price": 82000
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "바다 너머 시작하는 제주 호텔살기 시작",
+      "items": [
+        {
+          "type": "hotel",
+          "hotel_id": 131,
+          "hotel_price_scheme": "package_day",
+          "name": "서머셋 제주신화월드",
+          "eng_name": "Somerset Jeju Shinhwa World",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/Ht1cnCzltLgpSHG5LGgchWSAkO5eDkiqF3Pg94J5.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 89",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 1067000,
+                "discount": 75,
+                "sale_price": 303000,
+                "min_night": 7,
+                "min_night_price": 1067000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 326000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 141,
+          "hotel_price_scheme": "package_day",
+          "name": "롯데시티호텔 제주",
+          "eng_name": "LOTTE City Hotel Jeju",
+          "first_image_position_y": "100%",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-04-11/n1daBZqvPVApx2RvxaCSEOWhCruxQaTG4aybuHhP.jpg",
+          "address": "제주 제주시 도령로 83",
+          "subway_station": "제주국제공항 차량 6분 거리",
+          "rating": "4",
+          "events": ["회원 할인가"],
+          "items": ["2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 454000,
+                "discount": 73,
+                "sale_price": 121000,
+                "min_night": 14,
+                "min_night_price": 454000,
+                "min_night_discount": 70,
+                "min_night_sale_price": 132000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 128,
+          "hotel_price_scheme": "package_day",
+          "name": "랜딩관 제주신화월드 호텔앤리조트",
+          "eng_name": "Landing Jeju Shinhwa World Hotels&Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-08/2b7qhD0p0HlStkN5SCVfkO1I17pFxyGScgzliuAG.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 30,
+                "price": 513000,
+                "discount": 76,
+                "sale_price": 121000,
+                "min_night": 7,
+                "min_night_price": 513000,
+                "min_night_discount": 73,
+                "min_night_sale_price": 137000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 129,
+          "hotel_price_scheme": "package_day",
+          "name": "신화관 제주신화월드 호텔앤리조트",
+          "eng_name": "Shinhwa Jeju Shinhwa World Hotels & Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/LyqZAKJLi8KoOzwC0YLMwsuw5Wxpe1jWFmQFogx9.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 531000,
+                "discount": 67,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 531000,
+                "min_night_discount": 64,
+                "min_night_sale_price": 204000
+              }
+            ]
+          }
+        },
+        {
+          "type": "hotel",
+          "hotel_id": 130,
+          "hotel_price_scheme": "package_day",
+          "name": "메리어트관 제주신화월드 호텔앤리조트",
+          "eng_name": "Marriott Jeju Shinhwa World Hotels & Resorts",
+          "first_image_position_y": "0",
+          "image": "https://d2pyzcqibfhr70.cloudfront.net/images/0/2022-02-07/twFKQOQNyZBa8yhxONA48vYp23mtCDqC9SFKBPWi.jpg",
+          "address": "제주 서귀포시 안덕면 신화역사로304번길 38",
+          "subway_station": "제주국제공항 차량 30분 거리",
+          "rating": "5",
+          "events": ["회원 할인가"],
+          "items": ["1주 살기", "2주 살기", "3주 살기", "한 달 이상"],
+          "price": {
+            "is_price": true,
+            "is_coupon": false,
+            "price": [
+              {
+                "max_night": 90,
+                "price": 723000,
+                "discount": 75,
+                "sale_price": 184000,
+                "min_night": 7,
+                "min_night_price": 723000,
+                "min_night_discount": 72,
+                "min_night_sale_price": 204000
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "promotion": {
+    "title": "보증금, 관리비 없는<br>롱스테이 호텔 모아보세요",
+    "explanation": null,
+    "event": "호텔 보러 가기",
+    "hotel_id": null,
+    "url": "https://www.livinginhotel.com/hotel/list/%EC%A0%84%EC%B2%B4",
+    "images": "https://d2pyzcqibfhr70.cloudfront.net/resource/main/banners/20220303/web/0nvAKyT4Haq1TZRz8xhEcTeepVOkaDYwBDRtHtdt.png",
+    "bg_color": "#333c54"
+  },
+  "faqs": [
+    {
+      "id": 1,
+      "question": "호텔 롱스테이 플랫폼이 무엇인가요?",
+      "answer": "호텔에삶은 국내 최초 호텔 롱스테이 플랫폼입니다.<br>롱스테이란 6박 이상 장기 거주하는 것을 의미하며 1주 살기부터 세 달 이상, 원하는 기간 동안 호텔에서 살아보실 수 있습니다.<br>저렴한 가격의 3성급 호텔부터 5성급 프리미엄 호텔까지, 호텔에삶에서 즐겨보시기 바랍니다."
+    },
+    {
+      "id": 2,
+      "question": "장기 숙박을 할 때 호텔에삶이 좋은 이유는 무엇인가요?",
+      "answer": "첫 번째, 롱스테이를 위한 합리적인 가격입니다. 호텔과의 특별 계약을 통해 한 달 살기 기준, 국내 최저가로 예약하실 수 있습니다.<br>두 번째, 보증금과 관리비가 없습니다. 호텔에삶은 고객과의 신뢰를 기반으로 하여 장기 거주임에도 보증금과 관리비를 받지 않고 장기 거주 상품을 제공하고 있습니다.<br>세 번째, 호텔에삶 이용 고객에게만 제공하는 Only 혜택이 있습니다. 룸 업그레이드, 호텔에삶 고객 전용 라운지, 조식 쿠폰, 전자레인지 구비 등 호텔 별로 다양한 혜택을 제공하고 있습니다. 원하시는 호텔 상세 페이지에 들어가셔서 확인해 보시기 바랍니다.\n"
+    },
+    {
+      "id": 3,
+      "question": "롱스테이 예약 전 미리 투어를 해볼 수 있나요?",
+      "answer": "물론입니다. 호텔에삶에서만 제공하는 서비스입니다. 집이 아닌 곳에서 오래 살아야 하는 고객님들의 우려를 덜어드리기 위해 입주 전 미리 호텔을 둘러보실 수 있도록 투어 시스템을 운영하고 있습니다. 투어 신청 후 호텔을 방문하시면 호텔 매니저가 함께 객실과 편의시설을 보여드립니다.<br><br>* 투어 신청 방법 : 호텔 상세 페이지 클릭 → 하단 가격 비교하기 버튼 클릭 → ‘투어 신청’ 예약하기 버튼 클릭 → 투어 신청"
+    },
+    {
+      "id": 4,
+      "question": "최대 할인을 받으려면 어떻게 해야 하나요?",
+      "answer": "호텔에삶에 가입하신 회원님께 최대 할인을 제공하고 있습니다. 예약 시 기간, 룸 선택 후 회원가입 및 로그인을 해주시면 회원 할인가를 제공받으실 수 있습니다.<br>또한 매월 프로모션을 통해 할인 이벤트를 진행 중이니 참고하셔서 혜택받아보시기 바랍니다."
+    },
+    {
+      "id": 5,
+      "question": "저렴하지 않은 가격인데 안전하게 온라인에서 결제가 가능한가요?",
+      "answer": "네, 호텔에삶은 고객님의 편의를 돕기 위해 온라인 결제 시스템을 도입했습니다. 회원 할인 외에도 이벤트와 카드사 할부를 제공 중입니다.<br>* 온라인 결제 방법 : 호텔 상세 페이지 클릭 → 하단 ‘가격 알아보기’ 버튼 클릭 → 입주 희망 기간, 룸 선택 → 로그인 및 회원가입 → 결제 정보 입력 → 결제 완료<br><br>온라인 결제 외에도 계좌이체를 통한 결제가 가능하며 계좌이체+카드 결제를 함께 하실 수 있는 분할 결제도 제공하고 있으니 희망하시는 고객님께서는 호텔에삶 고객센터로 문의해 주시기 바랍니다.<br>* 고객센터 : 우측 하단 채널톡 버튼 클릭 또는 1599-4330으로 연락"
+    },
+    {
+      "id": 6,
+      "question": "1주 살기, 2주 살기, 3주 살기, 한 달 살기는 무엇이 다른가요?",
+      "answer": "1주 살기는 '6박부터 12박' 사이의 상품을 말하며, 2주 살기는 '13박부터 19박', 3주 살기는 '20박부터 28박', 한 달 살기는 '29박부터 57박' 사이의 상품을 말합니다.<br><br>* 기간이 늘어날수록 1박당 가격이 저렴해지며 별도 혜택이 추가됩니다.<br>* 기간 별 1박당 가격, 혜택 확인 방법 : 호텔 상세 페이지 클릭 → 하단 ‘가격 알아보기’ 버튼 클릭 → 기간 별 1박당 가격, 혜택 확인 가능"
+    }
+  ],
+  "reviews": [
+    {
+      "name": "전00님의 후기",
+      "job": "프리랜서 강사",
+      "content": "새 집으로 이사 전, 인테리어 기간 동안 가족들과 단기간 거주하기에 좋았습니다. 특히 공유주방이 있어서 직접 요리를 해먹을 수 있는 점이 편리했습니다.",
+      "image": "https://d2pyzcqibfhr70.cloudfront.net/reviews/images/main/home-review-1.png"
+    },
+    {
+      "name": "김00님의 후기",
+      "job": "법률 전문가",
+      "content": "호텔의 컨시어지 서비스를 받고,문의 사항도 신속히 처리해주셔서 케어 받으며 살고 있다는 기분이 들어 더 좋았습니다.",
+      "image": "https://d2pyzcqibfhr70.cloudfront.net/reviews/images/main/home-review-2.png"
+    },
+    {
+      "name": "박00님의 후기",
+      "job": "유튜브 크리에이터",
+      "content": "기분 전환도 할 겸 새로운 작업 공간이 필요해서 안전하고 좋은 시설인 호텔을 선택했어요. 깔끔하고 편의시설이 잘 갖춰져서 친구들도 자주 불러서 호캉스를 즐겼습니다.",
+      "image": "https://d2pyzcqibfhr70.cloudfront.net/reviews/images/main/home-review-3.png"
+    },
+    {
+      "name": "최00님의 후기",
+      "job": "스타트업 CEO",
+      "content": "깨끗한 객실에서 생활하니 삶의 질이 올라갔어요.특히, 보증금 없이, 합리적인 가격으로 이용할 수 있다는 점도 좋았고 호텔 루프탑에서도 재택근무도  할 수 있다는 점이 좋았어요.",
+      "image": "https://d2pyzcqibfhr70.cloudfront.net/reviews/images/main/home-review-4.png"
+    },
+    {
+      "name": "정00님의 후기",
+      "job": "대기업 마케터",
+      "content": "야근이 잦아 출퇴근이 힘들었는데 회사 옆에 있는 호텔에 살면서 통근 시간도 줄이고 여유 시간도 생겨 호텔 입주한 사람들과 이웃사촌 처럼 네트워킹 할 수 있어 좋았습니다.",
+      "image": "https://d2pyzcqibfhr70.cloudfront.net/reviews/images/main/home-review-5.png"
+    }
+  ]
+}
