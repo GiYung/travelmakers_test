@@ -1,4 +1,10 @@
+import { useMediaQuery } from "react-responsive";
+
 export default function TopBar() {
+  const isMobile = useMediaQuery({
+    query: "(max-width:767px)",
+  });
+
   return (
     <div className="section-top-bar">
       <div className="topbar_pc">
@@ -10,7 +16,7 @@ export default function TopBar() {
             <img src="/search.svg" alt="search" />
             <span>호텔 검색</span>
           </div>
-          <div>마이페이지</div>
+          {isMobile ? <img src="user.svg" alt="user" /> : <div>마이페이지</div>}
         </div>
       </div>
     </div>

@@ -24,6 +24,12 @@
 
   .container {
     width: 1200px;
+
+    @media (max-width: 1250px) {
+      width: 100%;
+      padding: 0 10px;
+    }
+
     position: relative;
 
     div:nth-child(1) {
@@ -42,6 +48,11 @@
       /* or 138% */
 
       /* navy/navy_1 | #30373F */
+
+      @media (max-width: 1250px) {
+        font-weight: 700;
+        font-size: 16px;
+      }
 
       color: #30373f;
     }
@@ -78,6 +89,11 @@
         line-height: 32px;
         /* identical to box height, or 160% */
 
+        @media (max-width: 1250px) {
+          font-weight: 700;
+          font-size: 16px;
+        }
+
         display: flex;
         align-items: center;
 
@@ -95,9 +111,14 @@
     img {
       position: absolute;
       width: 494px;
-      height: 350px;
+      // height: 350px;
       right: -59px;
-      top: -47px;
+      top: -10px;
+
+      @media (max-width: 1250px) {
+        width: 47vw;
+        right: 0px;
+      }
     }
   }
 }

@@ -1,11 +1,5 @@
 import { Swiper, SwiperSlide } from "swiper/react";
-import SwiperCore, {
-  Pagination,
-  Autoplay,
-  Navigation,
-  Controller,
-  Virtual,
-} from "swiper";
+import SwiperCore, { Autoplay, Navigation, Controller, Virtual } from "swiper";
 import { useCallback, useEffect, useState } from "react";
 import { useAppSelector } from "hooks";
 import { CatalogItem } from "types/Catalog";
@@ -50,10 +44,10 @@ export default function SwiperBody() {
         modules={[Navigation, Autoplay, Controller, Virtual]}
         rewind={true}
         navigation={true}
-        autoplay={{
-          delay: 5000,
-          disableOnInteraction: false,
-        }}
+        // autoplay={{
+        //   delay: 5000,
+        //   disableOnInteraction: false,
+        // }}
         onSwiper={setSwiper}
         onSlideChangeTransitionEnd={slideChange}
         virtual

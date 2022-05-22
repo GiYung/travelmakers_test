@@ -9,12 +9,17 @@ import SwiperCore, {
 import { useCallback, useState } from "react";
 import { useAppDispatch, useAppSelector } from "hooks";
 import { changeBanner } from "store/reducers/BannerCarousel";
+import { useMediaQuery } from "react-responsive";
 
 function BannerSwiper() {
   const banners = useAppSelector((state) => state.banner);
   const [swiper, setSwiper] = useState<SwiperCore>();
   const [slideIndex, setSlideIndex] = useState<number>(1);
   const dispatch = useAppDispatch();
+
+  const isMobile = useMediaQuery({
+    query: "(max-width:767px)",
+  });
 
   const slideChange = useCallback(() => {
     if (swiper) {
@@ -61,7 +66,11 @@ function BannerSwiper() {
       >
         {banners.map((banner) => (
           <SwiperSlide key={banner.description}>
-            <img src={banner.images} alt={banner.description}></img>
+            {isMobile ? (
+              <img src={banner.mobile_images} alt={banner.description} />
+            ) : (
+              <img src={banner.images} alt={banner.description} />
+            )}
           </SwiperSlide>
         ))}
       </Swiper>

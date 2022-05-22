@@ -4,14 +4,14 @@
   align-items: flex-start;
   /* padding: 0px 88px; */
   /* gap: 10px; */
-  width: 100%;
+
+  width: 1200px;
   min-height: 172px;
   flex: none;
   order: 2;
   flex-grow: 0;
-
-  @media (min-width: 1300px) {
-    width: 1200px;
+  @media (max-width: 1250px) {
+    width: 100%;
   }
 
   /* Inside auto layout */
@@ -120,6 +120,11 @@
 
 .title {
   height: 44px;
+
+  @media (max-width: 1250px) {
+    height: inherit;
+    font-size: 20px;
+  }
 
   /* Title/Noto Serif/H2-NotoSerif-B */
   font-family: "Noto Serif KR";
