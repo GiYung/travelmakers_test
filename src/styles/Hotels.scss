@@ -177,9 +177,9 @@
         background: #8d8d8d;
 
         @media (max-width: 1250px) {
-          width: inherit;
-          right: 0;
-          left: 0;
+          width: initial;
+          right: 16px;
+          left: 16px;
         }
 
         img {
@@ -254,7 +254,7 @@
         top: calc(50% - 24px / 2 - 156px);
 
         @media (max-width: 1250px) {
-          right: 0;
+          right: 16px;
           top: 0;
         }
 
@@ -366,6 +366,8 @@
           @media (max-width: 1250px) {
             left: 0;
             top: 312px;
+            width: initial;
+            padding: 20px;
           }
 
           .keywordTags {
