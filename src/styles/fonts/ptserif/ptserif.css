@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./PTSerif-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PT Serif";
+  font-style: italic;
+  font-weight: 400;
+  src: url("./PTSerif-Italic.ttf") format("truetype");
+}
+@font-face {
+  font-family: "PT Serif";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./PTSerif-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "PT Serif";
+  font-style: italic;
+  font-weight: 700;
+  src: url("./PTSerif-BoldItalic.ttf") format("truetype");
+}

@@ -6,14 +6,14 @@ import SwiperCore, {
   Navigation,
   Controller,
 } from "swiper";
-import React, { useCallback, useEffect, useState } from "react";
+import { useCallback, useState } from "react";
 import { useAppDispatch, useAppSelector } from "hooks";
-import { changeBanner } from "store/reducers/Carousel";
+import { changeBanner } from "store/reducers/BannerCarousel";
 
-function SwiperBody() {
+function BannerSwiper() {
   const banners = useAppSelector((state) => state.banner);
   const [swiper, setSwiper] = useState<SwiperCore>();
-  const [slideIndex, setSlideIndex] = useState<Number>(1);
+  const [slideIndex, setSlideIndex] = useState<number>(1);
   const dispatch = useAppDispatch();
 
   const slideChange = useCallback(() => {
@@ -32,8 +32,19 @@ function SwiperBody() {
     }
   }, [banners, dispatch, swiper]);
 
+  const slideLeft = useCallback(() => {
+    if (swiper) {
+      swiper.slidePrev();
+    }
+  }, [swiper]);
+  const slideRight = useCallback(() => {
+    if (swiper) {
+      swiper.slideNext();
+    }
+  }, [swiper]);
+
   return (
-    <React.Fragment>
+    <div className="section-carousel">
       <Swiper
         modules={[Pagination, Navigation, Autoplay, Controller]}
         pagination={{
@@ -48,19 +59,31 @@ function SwiperBody() {
         onSwiper={setSwiper}
         onSlideChangeTransitionEnd={slideChange}
       >
-        {banners.map((banner, index) => (
+        {banners.map((banner) => (
           <SwiperSlide key={banner.description}>
             <img src={banner.images} alt={banner.description}></img>
           </SwiperSlide>
         ))}
-        <div className="slide-counter">
-          <span>
-            {slideIndex.toString()} / {banners.length.toString()}
-          </span>
-        </div>
       </Swiper>
-    </React.Fragment>
+      <div className="slide-control">
+        <div>
+          <div className="slide-counter">
+            <span>
+              {slideIndex.toString()} / {banners.length.toString()}
+            </span>
+          </div>
+        </div>
+        <div style={{ display: "flex", gap: "10px" }}>
+          <div className="slide-btn left" onClick={slideLeft}>
+            {"<"}
+          </div>
+          <div className="slide-btn right" onClick={slideRight}>
+            {">"}
+          </div>
+        </div>
+      </div>
+    </div>
   );
 }
 
-export default SwiperBody;
+export default BannerSwiper;

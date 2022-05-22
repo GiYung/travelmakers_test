@@ -1,0 +1,736 @@
+.section-local-hotel {
+  width: 100%;
+  height: 760px;
+
+  /* navy/navy_1 | #30373F */
+
+  background: #30373f;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 4;
+  flex-grow: 0;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .header-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 100px;
+
+    width: 1200px;
+    height: 60px;
+    left: 360px;
+    top: 100px;
+
+    .line-left {
+      width: 395px;
+      height: 1px;
+
+      /* Inside auto layout */
+
+      flex: none;
+      order: 0;
+      flex-grow: 1;
+      background: #ffffff;
+    }
+
+    p {
+      width: 210px;
+      height: 60px;
+
+      /* Title/PT Serif/H1-PTserif-R */
+
+      font-family: "PT Serif";
+      font-style: italic;
+      font-weight: 400;
+      font-size: 40px;
+      line-height: 60px;
+      /* identical to box height, or 150% */
+
+      display: flex;
+      align-items: center;
+      text-align: center;
+
+      /* white */
+
+      color: #ffffff;
+
+      /* Inside auto layout */
+
+      flex: none;
+      order: 1;
+      flex-grow: 0;
+    }
+    .line-right {
+      width: 395px;
+      height: 1px;
+
+      /* Inside auto layout */
+
+      flex: none;
+      order: 2;
+      flex-grow: 1;
+      background: #ffffff;
+    }
+  }
+
+  .tab-text_pc {
+    /* Auto layout */
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    gap: 20px;
+
+    height: 32px;
+    margin: 24px 0 80px;
+
+    .item {
+      width: 100px;
+      height: 32px;
+      flex-grow: 1;
+      align-items: center;
+
+      display: flex;
+      flex-direction: column;
+
+      span {
+        font-family: "Pretendard";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 36px;
+        /* identical to box height, or 150% */
+
+        display: flex;
+        align-items: center;
+        text-align: center;
+
+        color: #979b9f;
+      }
+      span.active {
+        font-weight: 700;
+        /* white */
+        color: #ffffff;
+      }
+    }
+    .divider {
+      width: 1px;
+      height: 20px;
+
+      /* navy/navy_3 | #979B9F */
+      background: #979b9f;
+
+      /* Inside auto layout */
+
+      flex: none;
+      flex-grow: 0;
+      margin: 0 20px;
+    }
+  }
+
+  .card-hotel-featured_pc {
+    width: 1076px;
+    height: 360px;
+
+    .hotel_slide {
+      width: 1076px;
+      height: 360px;
+      position: relative;
+
+      .thumbnail {
+        position: absolute;
+        width: 533px;
+        height: 344px;
+        left: 16px;
+        top: 0px;
+        background: #8d8d8d;
+        img {
+          display: block;
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+        }
+      }
+
+      .eventTags {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        padding: 0px;
+
+        position: absolute;
+        width: 138px;
+        height: 28px;
+        left: 48px;
+        top: 0px;
+        .tag {
+          display: flex;
+          flex-direction: row;
+          justify-content: center;
+          align-items: center;
+          padding: 0px 16px;
+          gap: 8px;
+
+          width: 69px;
+          height: 28px;
+          /* Inside auto layout */
+
+          flex: none;
+          flex-grow: 0;
+
+          span {
+            font-family: "Pretendard";
+            font-style: normal;
+            font-weight: 400;
+            font-size: 14px;
+            line-height: 20px;
+            /* identical to box height, or 143% */
+
+            display: flex;
+            align-items: center;
+            text-align: center;
+
+            /* white */
+
+            color: #ffffff;
+
+            /* Inside auto layout */
+
+            flex: none;
+            order: 0;
+            flex-grow: 0;
+          }
+        }
+        .tag:nth-child(1) {
+          background: #03936e;
+        }
+        .tag:nth-child(2) {
+          background: #1a749e;
+        }
+      }
+      .description {
+        position: absolute;
+        // width: 100px;
+        height: 24px;
+        right: 539px;
+        top: calc(50% - 24px / 2 - 156px);
+
+        /* Body/Pretendard/B1-Pretendard-R */
+
+        font-family: "Pretendard";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        /* identical to box height, or 150% */
+
+        text-align: right;
+
+        /* Transparent white/tw_1 */
+
+        color: rgba(255, 255, 255, 0.8);
+      }
+
+      .content {
+        position: absolute;
+        width: 100%;
+        bottom: 0;
+        left: 0px;
+        top: 32px;
+
+        /* white */
+        background: #ffffff;
+
+        .flash-sale {
+          position: absolute;
+          width: 532px;
+          height: 36px;
+          left: 544px;
+          top: 0px;
+
+          /* green/green_3 */
+
+          background: #03936e;
+
+          img {
+            /* ic/timesale */
+
+            position: absolute;
+            width: 16px;
+            height: 16px;
+            left: 20px;
+            top: 10px;
+          }
+          .remaning {
+            position: absolute;
+            width: 158px;
+            height: 20px;
+            left: 40px;
+            top: 8px;
+
+            /* Body/Pretendard/B3-Pretendard-R */
+
+            font-family: "Pretendard";
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 20px;
+            /* identical to box height, or 167% */
+
+            display: flex;
+            align-items: center;
+
+            color: #ffffff;
+          }
+          .date {
+            position: absolute;
+            height: 20px;
+            right: 10px;
+            top: 8px;
+
+            /* Body/Pretendard/B3-Pretendard-B */
+
+            font-family: "Pretendard";
+            font-style: normal;
+            font-weight: 700;
+            font-size: 12px;
+            line-height: 20px;
+            /* identical to box height, or 167% */
+
+            display: flex;
+            align-items: center;
+            text-align: right;
+
+            color: #ffffff;
+          }
+        }
+
+        .content-body {
+          position: absolute;
+          width: 383px;
+          height: 292px;
+          bottom: 0;
+          right: 0;
+          top: 0;
+          padding: 24px 72px 60px;
+
+          .keywordTags {
+            /* Auto layout */
+
+            display: flex;
+            flex-direction: row;
+            align-items: flex-start;
+            padding: 0px;
+            gap: 4px;
+
+            position: absolute;
+            height: 24px;
+            top: 60px;
+
+            .tag {
+              box-sizing: border-box;
+
+              /* Auto layout */
+
+              display: flex;
+              flex-direction: row;
+              justify-content: center;
+              align-items: center;
+              padding: 0px 12px;
+              gap: 8px;
+
+              height: 24px;
+
+              /* gray/gray_4 | #B6B6B6 */
+
+              border: 1px solid #b6b6b6;
+              border-radius: 100px;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 0;
+              flex-grow: 0;
+
+              span {
+                height: 20px;
+
+                /* Body/Pretendard/B3-Pretendard-R */
+
+                font-family: "Pretendard";
+                font-style: normal;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 20px;
+                /* identical to box height, or 167% */
+
+                display: flex;
+                align-items: center;
+                text-align: center;
+
+                /* gray/gray_3 | #8D8D8D */
+
+                color: #8d8d8d;
+
+                /* Inside auto layout */
+
+                flex: none;
+                order: 0;
+                flex-grow: 0;
+              }
+            }
+          }
+
+          .title {
+            /* Auto layout */
+
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            padding: 0px;
+            gap: 12px;
+
+            position: absolute;
+            height: 56px;
+            top: 96px;
+
+            .hotel-name {
+              height: 24px;
+
+              /* Title/Pretendard/H6-Pretendard-B */
+
+              font-family: "Pretendard";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 24px;
+              /* identical to box height, or 133% */
+
+              display: flex;
+              align-items: center;
+
+              /* navy/navy_1 | #30373F */
+
+              color: #30373f;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 0;
+              flex-grow: 0;
+            }
+            .grade {
+              display: flex;
+              align-items: center;
+              padding: 0px;
+              gap: 3px;
+
+              height: 20px;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 1;
+              flex-grow: 0;
+
+              height: 20px;
+
+              /* Body/Pretendard/B3-Pretendard-R */
+
+              font-family: "Pretendard";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 20px;
+              /* identical to box height, or 167% */
+
+              /* navy/navy_2 | #6E7378 */
+
+              color: #6e7378;
+            }
+          }
+
+          .divider {
+            position: absolute;
+            width: calc(100% - 144px);
+            top: 60.06%;
+            bottom: 39.63%;
+
+            /* navy/navy_2 | #6E7378 */
+
+            background: #6e7378;
+          }
+
+          .price-label {
+            /* Auto layout */
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            gap: 4px;
+
+            position: absolute;
+            height: 20px;
+            top: 240px;
+
+            span {
+              height: 20px;
+
+              /* Body/Pretendard/B3-Pretendard-R-strike */
+
+              font-family: "Pretendard";
+              font-style: normal;
+              font-weight: 400;
+              font-size: 12px;
+              line-height: 20px;
+              /* identical to box height, or 167% */
+
+              display: flex;
+              align-items: center;
+
+              /* gray/gray_2 | #616161 */
+
+              color: #616161;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 2;
+              flex-grow: 0;
+            }
+            .coupon {
+              /* Auto layout */
+
+              display: flex;
+              flex-direction: row;
+              align-items: center;
+              padding: 0px 4px;
+              gap: 4px;
+
+              width: 74px;
+              height: 20px;
+
+              /* green/green_5 */
+
+              background: #dcf1ec;
+              border-radius: 4px;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 3;
+              flex-grow: 0;
+
+              font-family: "Pretendard";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 10px;
+              line-height: 16px;
+            }
+          }
+          .price-discount {
+            /* Auto layout */
+
+            display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 0px;
+            gap: 4px;
+
+            position: absolute;
+            height: 36px;
+            top: 260px;
+
+            .percent {
+              height: 24px;
+
+              /* Title/Pretendard/H6-Pretendard-B */
+
+              font-family: "Pretendard";
+              font-style: normal;
+              font-weight: 700;
+              font-size: 18px;
+              line-height: 24px;
+              /* identical to box height, or 133% */
+
+              display: flex;
+              align-items: center;
+
+              /* red/red_2 */
+
+              color: #da5542;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 0;
+              flex-grow: 0;
+            }
+            .group-price {
+              /* group-price */
+
+              /* Auto layout */
+
+              display: flex;
+              flex-direction: row;
+              justify-content: flex-end;
+              align-items: center;
+              padding: 0px;
+              gap: 2px;
+
+              height: 36px;
+
+              /* Inside auto layout */
+
+              flex: none;
+              order: 1;
+              flex-grow: 0;
+              .price-after {
+                /* Title/Pretendard/H4-Pretendard-B */
+
+                font-family: "Pretendard";
+                font-style: normal;
+                font-weight: 700;
+                font-size: 24px;
+                line-height: 36px;
+                /* identical to box height, or 150% */
+
+                display: flex;
+                align-items: center;
+                text-align: right;
+
+                /* navy/navy_1 | #30373F */
+
+                color: #30373f;
+
+                /* Inside auto layout */
+
+                flex: none;
+                order: 1;
+                flex-grow: 0;
+              }
+
+              .won {
+                font-family: "Pretendard";
+                font-style: normal;
+                font-weight: 700;
+                font-size: 14px;
+                line-height: 20px;
+                /* or 143% */
+
+                display: flex;
+                align-items: flex-end;
+                text-align: right;
+
+                /* navy/navy_1 | #30373F */
+
+                color: #30373f;
+
+                /* Inside auto layout */
+
+                flex: none;
+                order: 2;
+                flex-grow: 0;
+              }
+              .price-before {
+                /* Body/Pretendard/B3-Pretendard-R */
+
+                font-family: "Pretendard";
+                font-style: normal;
+                font-weight: 400;
+                font-size: 12px;
+                line-height: 20px;
+                /* identical to box height, or 167% */
+
+                display: flex;
+                align-items: center;
+
+                /* gray/gray_2 | #616161 */
+
+                color: #616161;
+
+                flex: none;
+                order: 3;
+                flex-grow: 0;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .slide-control {
+      position: relative;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 10px;
+
+      .slide-counter {
+        width: 100px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+
+        font-family: "PT Serif";
+        font-style: normal;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 26px;
+        /* identical to box height */
+        letter-spacing: 2.66667px;
+
+        /* white */
+
+        color: #ffffff;
+      }
+
+      .slide-btn {
+        box-sizing: border-box;
+
+        /* Auto layout */
+
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+        gap: 8px;
+
+        width: 32px;
+        height: 32px;
+
+        opacity: 0.5;
+        /* white */
+
+        border: 1px solid #ffffff;
+        border-radius: 100px;
+
+        /* Inside auto layout */
+
+        flex: none;
+        order: 0;
+        flex-grow: 0;
+
+        color: #fff;
+      }
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+      display: none;
+    }
+  }
+}

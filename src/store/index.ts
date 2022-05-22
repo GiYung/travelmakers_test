@@ -1,13 +1,15 @@
 import { configureStore } from "@reduxjs/toolkit";
-import carousel from "./reducers/Carousel";
+import carousel from "./reducers/BannerCarousel";
 import catalog from "./reducers/Catalogs";
 import banner from "./reducers/TopBanners";
+import localHotels from "./reducers/LocalHotels";
 
 const store = configureStore({
   reducer: {
     carousel,
     catalog,
     banner,
+    localHotels,
   },
 });
 

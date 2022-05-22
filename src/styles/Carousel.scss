@@ -12,6 +12,10 @@
   order: 1;
   flex-grow: 0;
 
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  position: relative;
   .swiper {
     width: 100%;
     height: 100%;
@@ -47,8 +51,8 @@
   .swiper-pagination {
     position: absolute;
     top: initial;
-    bottom: 45px;
-    left: 180px;
+    bottom: 24px;
+    left: 260px;
 
     max-width: 470px;
 
@@ -61,25 +65,69 @@
     }
   }
 
-  .slide-counter {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+
+  .slide-control {
     position: absolute;
-    bottom: 37px;
-    left: 100px;
+    width: 1200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    bottom: 0;
     z-index: 1;
 
-    font-family: "PT Serif";
-    font-style: normal;
-    font-weight: 700;
-    font-size: 20px;
-    line-height: 26px;
-    /* identical to box height */
+    .slide-counter {
+      width: 100px;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
 
-    display: flex;
-    align-items: center;
-    letter-spacing: 2.66667px;
+      font-family: "PT Serif";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 26px;
+      /* identical to box height */
+      letter-spacing: 2.66667px;
 
-    /* white */
+      /* white */
 
-    color: #ffffff;
+      color: #ffffff;
+    }
+
+    .slide-btn {
+      box-sizing: border-box;
+
+      /* Auto layout */
+
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 0px;
+      gap: 8px;
+
+      width: 32px;
+      height: 32px;
+
+      opacity: 0.5;
+      /* white */
+
+      border: 1px solid #ffffff;
+      border-radius: 100px;
+
+      /* Inside auto layout */
+
+      flex: none;
+      order: 0;
+      flex-grow: 0;
+
+      color: #fff;
+    }
   }
 }

@@ -9,7 +9,7 @@ const initialState: CarouselType = {
 };
 
 export const carouselSlice = createSlice({
-  name: "carousel",
+  name: "bannerCarousel",
   initialState,
   reducers: {
     changeBanner: (state, action: PayloadAction<CarouselType>) => {

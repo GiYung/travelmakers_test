@@ -16,9 +16,6 @@ import "styles/App.scss";
 
 const GlobalStyles = createGlobalStyle`
     ${reset}
-    body {
-        background-color: red;
-    }
 `;
 
 const root = ReactDOM.createRoot(

@@ -2,20 +2,20 @@ import { useEffect } from "react";
 import { getFrontData } from "serverApi";
 
 //redux
-import { useAppDispatch, useAppSelector } from "hooks";
+import { useAppDispatch } from "hooks";
 import { initCatalog } from "store/reducers/Catalogs";
 import { initBanner } from "store/reducers/TopBanners";
-import { changeBanner } from "store/reducers/Carousel";
+import { changeBanner } from "store/reducers/BannerCarousel";
 
 // components
-import SwiperBody from "./SwiperBody";
+import BannerSwiper from "./BannerSwiper";
 import TopBar from "./TopBar";
 import Banner from "./Banner";
 import SectionBenefit from "./SectionBenefit";
+import SectionHotels from "./sectionHotel";
 
 function App() {
   const dispatch = useAppDispatch();
-  //   const catalogs = useAppSelector((state) => state.catalog);
 
   useEffect(() => {
     async function getData() {
@@ -37,20 +37,11 @@ function App() {
   return (
     <div>
       <div className="main_topbar-carousel">
-        <div className="section-top-bar">
-          <TopBar />
-        </div>
-        <div className="section-carousel">
-          <SwiperBody />
-        </div>
-        <div className="banner-title">
-          <Banner />
-        </div>
+        <TopBar />
+        <BannerSwiper />
+        <Banner />
         <SectionBenefit />
-
-        {/* <div className="section-top-bar"></div>
-        <div className="section-top-bar"></div>
-        <div className="section-top-bar"></div> */}
+        <SectionHotels />
       </div>
     </div>
   );

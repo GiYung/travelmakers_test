@@ -1,16 +1,12 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
+// font
+@import "fonts/ptserif/ptserif.css";
+@import "fonts/pretendard/pretendard.css";
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
-}
+@import "TopBar.scss";
+@import "Carousel.scss";
+@import "Banner.scss";
+@import "Benefit.scss";
+@import "hotels.scss";
 
 .main_topbar-carousel {
   /* Auto layout */
@@ -27,24 +23,4 @@ code {
   /* white */
 
   background: #ffffff;
-}
-
-@import "TopBar.scss";
-@import "Carousel.scss";
-@import "Banner.scss";
-@import "Benefit.scss";
-
-.section-local-hotel {
-  width: 1920px;
-  height: 760px;
-
-  /* navy/navy_1 | #30373F */
-
-  background: #30373f;
-
-  /* Inside auto layout */
-
-  flex: none;
-  order: 4;
-  flex-grow: 0;
 }
