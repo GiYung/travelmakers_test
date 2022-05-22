@@ -9,7 +9,11 @@ export const catalogSlice = createSlice({
   reducers: {
     initCatalog: (state, action: PayloadAction<Array<Catalog>>) => {
       console.log("init catalog", action.payload);
-      return [...action.payload];
+      if (action.payload) {
+        return [...action.payload];
+      } else {
+        return initialState;
+      }
     },
   },
 });

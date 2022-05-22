@@ -9,7 +9,12 @@ export const bannerSlice = createSlice({
   reducers: {
     initBanner: (state, action: PayloadAction<Array<Banner>>) => {
       console.log("init Banner", action.payload);
-      return [...action.payload];
+
+      if (action.payload) {
+        return [...action.payload];
+      } else {
+        return initialState;
+      }
     },
   },
 });

@@ -13,15 +13,18 @@ import TopBar from "./TopBar";
 import Banner from "./Banner";
 import SectionBenefit from "./SectionBenefit";
 import SectionHotels from "./sectionHotel";
+import { Catalog } from "types/Catalog";
 
 function App() {
   const dispatch = useAppDispatch();
 
   useEffect(() => {
     async function getData() {
-      const response = await getFrontData();
+      const result: any = await getFrontData();
+      const response: any = result.data;
       dispatch(initCatalog(response.catalogs));
       dispatch(initBanner(response.banners));
+
       dispatch(
         changeBanner({
           currentIndex: 0,
